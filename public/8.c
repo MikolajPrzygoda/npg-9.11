@@ -23,6 +23,8 @@ int main()
 		printf("Enter rows and column for second matrix: ");
 		scanf("%d%d", &rowSecond, &columnSecond);
 	}
+	
+	//zmiana 8 master
 
 	// Function to take matrices data
         enterData(firstMatrix, secondMatrix, rowFirst, columnFirst, rowSecond, columnSecond);
