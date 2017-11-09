@@ -11,6 +11,8 @@ int main()
     // sum of two numbers in stored in variable sumOfTwoNumbers
     sumOfTwoNumbers = firstNumber + secondNumber;
 
+	//zmiana 1 master
+	
     // Displays sum      
     printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
 
