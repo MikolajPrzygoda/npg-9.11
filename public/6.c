@@ -15,5 +15,6 @@ int main()
         }
     }
 
+	//zmiana 6
     return 0;
 }
