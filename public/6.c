@@ -11,6 +11,7 @@ int main()
     {
         if (number%i == 0)
         {
+			//zmiana 6 master
             printf("%d ",i);
         }
     }
