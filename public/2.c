@@ -12,5 +12,7 @@ int main()
     printf("Size of double: %ld bytes\n",sizeof(doubleType));
     printf("Size of char: %ld byte\n",sizeof(charType));
 
+	//zmiana 2 master
+	
     return 0;
 }
