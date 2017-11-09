@@ -10,6 +10,7 @@ struct course
 int main()
 {
    struct course *ptr;
+   //zmiana 9 master
    int i, noOfRecords;
    printf("Enter number of records: ");
    scanf("%d", &noOfRecords);
