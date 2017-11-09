@@ -10,6 +10,8 @@ int main()
     {
         sum += i;   // sum = sum+i;
     }
+	
+	//zmiana 4 master
 
     printf("Sum = %d",sum);
 
