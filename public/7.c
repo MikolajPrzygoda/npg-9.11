@@ -6,6 +6,7 @@ int main()
     int num;
     printf("Enter a positive integer: ");
     scanf("%d", &num);
+	//zmiana 7 master
     printf("Sum = %d",addNumbers(num));
     return 0;
 }
