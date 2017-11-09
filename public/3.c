@@ -12,6 +12,8 @@ int main()
       // Value of firstNumber is assigned to temporaryVariable
       temporaryVariable = firstNumber;
 
+	  //zmiana 3 master
+	  
       // Value of secondNumber is assigned to firstNumber
       firstNumber = secondNumber;
 
