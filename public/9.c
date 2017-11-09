@@ -28,5 +28,6 @@ int main()
    for(i = 0; i < noOfRecords ; ++i)
        printf("%s\t%d\n", (ptr+i)->subject, (ptr+i)->marks);
 
+	//zmiana 9
    return 0;
 }
