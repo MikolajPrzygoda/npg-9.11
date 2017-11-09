@@ -15,5 +15,6 @@ int main()
 
     printf("G.C.D of %d and %d is %d", n1, n2, gcd);
 
+	//zmiana 5
     return 0;
 }
