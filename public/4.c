@@ -15,5 +15,6 @@ int main()
 
     printf("Sum = %d",sum);
 
+	//zmiana 4
     return 0;
 }

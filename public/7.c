@@ -18,3 +18,5 @@ int addNumbers(int n)
     else
         return n;
 }
+
+//zmiana 7

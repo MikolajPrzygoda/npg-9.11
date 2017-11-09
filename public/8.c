@@ -102,3 +102,5 @@ void display(int mult[][10], int rowFirst, int columnSecond)
 		}
 	}
 }
+
+//zmiana 8

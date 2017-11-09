@@ -15,6 +15,7 @@ int main()
 	
     // Displays sum      
     printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
-
+	
+	//zmiana 1
     return 0;
 }
